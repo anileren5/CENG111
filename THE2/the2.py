@@ -1,4 +1,6 @@
-
+#Anıl Eren Göçer
+#2448397
+#THE2
 
 import math
 import random
